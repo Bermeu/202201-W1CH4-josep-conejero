@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "system-font-stack": "^1.0.5"
+  }
 }
