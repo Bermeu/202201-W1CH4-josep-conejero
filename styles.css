@@ -36,6 +36,9 @@ body {
 .middle-section {
   background-color: rgb(223, 127, 3);
   height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .bottom-section {
@@ -45,4 +48,18 @@ body {
 
 li {
   display: inline;
+}
+
+.line {
+  background-color: rgb(207, 250, 252);
+  width: 90%;
+  height: 1px;
+  margin: auto;
+}
+
+.both-sides {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 5px;
 }
