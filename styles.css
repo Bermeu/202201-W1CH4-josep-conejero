@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-color: rgb(116, 118, 230);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.header {
+  background-color: rgb(116, 118, 230);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+.header__h1 {
+  font-size: 19px;
+}
+
+.header__nav {
+  font-size: 12px;
+}
+
+.middle-section {
+  background-color: rgb(223, 127, 3);
+  height: 60px;
+}
+
+.bottom-section {
+  background-color: rgb(243, 164, 60);
+  height: 460px;
+}
+
+li {
+  display: inline;
+}
