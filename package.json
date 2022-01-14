@@ -12,5 +12,8 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "system-font-stack": "^1.0.5"
+  },
+  "devDependencies": {
+    "sass": "^1.48.0"
   }
 }
